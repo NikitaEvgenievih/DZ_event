@@ -1,0 +1,15 @@
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\bin\Debug\net6.0\ConsoleApp11dz.exe
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\bin\Debug\net6.0\ConsoleApp11dz.deps.json
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\bin\Debug\net6.0\ConsoleApp11dz.runtimeconfig.json
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\bin\Debug\net6.0\ConsoleApp11dz.dll
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\bin\Debug\net6.0\ref\ConsoleApp11dz.dll
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\bin\Debug\net6.0\ConsoleApp11dz.pdb
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.AssemblyInfoInputs.cache
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.AssemblyInfo.cs
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.csproj.CoreCompileInputs.cache
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.dll
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ref\ConsoleApp11dz.dll
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.pdb
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.genruntimeconfig.cache
+D:\C++_projects\ConsoleApp11dz\ConsoleApp11dz\obj\Debug\net6.0\ConsoleApp11dz.csproj.AssemblyReference.cache
